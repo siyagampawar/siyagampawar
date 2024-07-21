@@ -6,28 +6,23 @@ I am a Computer Science and Engineering student specializing in Data Science at 
 - **Languages:** Go, C, Java
 - **Web Development:** ReactJS, JavaScript, HTML, CSS
 - **Frameworks:** Spring Boot
-- **Databases:** MongoDB
+- **Databases:** MongoDB,My SQL
 - **Data Visualization:** Power BI
 - **Version Control:** Git
 
-## 🔭 Projects and Contributions
-Here are some of the projects I've worked on:
-- **Project 1:** [Project Name](link) - Description of the project.
-- **Project 2:** [Project Name](link) - Description of the project.
-- **Project 3:** [Project Name](link) - Description of the project.
-
 ## 🌱 Currently Learning
-- Advanced Go programming
+- Advanced Go programming,Advanced Java programming
 - Cloud computing and DevOps
 
 ## 👯 I’m Looking to Collaborate On
-- Open source projects in Go
+- Open source projects in Go,Java
 - AI and machine learning projects
 - Web development projects
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Siya Gampawar](https://www.linkedin.com/in/siya-gampawar/)
-- **GitHub:** [siya-gampawar](https://github.com/siya-gampawar)
+- **LinkedIn:** [Siya Gampawar]([https://www.linkedin.com/in/siya-gampawar/](https://www.linkedin.com/in/siya-gampawar-45b066237/)
+- **Portfolio:** [Siya Gampawar]()
+
 
 ## ⚡ Fun Fact
 I am an active member of college clubs and enjoy collaborating with others to bring innovative ideas to life.
