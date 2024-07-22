@@ -20,8 +20,8 @@ I am a Computer Science and Engineering student specializing in Data Science at 
 - Web development projects
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Siya Gampawar]([https://www.linkedin.com/in/siya-gampawar/](https://www.linkedin.com/in/siya-gampawar-45b066237/])
-- **Portfolio:** [Siya Gampawar]()
+- **LinkedIn:** : https://www.linkedin.com/in/siya-gampawar-45b066237/
+- **Portfolio:** : https://siyagampawar.netlify.app/
 
 
 ## ⚡ Fun Fact
